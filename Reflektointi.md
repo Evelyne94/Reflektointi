@@ -1,5 +1,5 @@
-#Yksilötehtävä
-
+Yksilötehtävä
+==
 **Ryhmätehtävän yksilö reflektointi**
 
 Ryhmätyö jaettiin viiteen osaan, liiketoimintakuvaus.md jaettiin kolmeen osaan ja Toolchain.md jaettiin kahteen osaan. Liiketoimintakuvaus osion osuudet olivat jaettu sanamäärin, joista jokaisen tuli kirjoittaa minimissä noin 350 sanaa. Itse kirjoitin käytännön toiminta osuuden ja kuvasin yleisesti liiketoimintasuunnitelmaa ja mitä siinä tulee huomioida. Sanamäärä oli suunnilleen 372. Jokainen myös teki omalta osaltaan duuniseuranta.md:hen muutokset tarpeen mukaan. Muokkauksia ei näkynyt paljoa, sillä kirjoitin tekstin ensin Wordissa ja sitten kopioin ja liitin sen bracketsin markdown-tiedostoon.
